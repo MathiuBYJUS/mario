@@ -1,0 +1,6 @@
+body
+{
+    background-image: url(background.jpg);
+}
+
+<button class="btn btn-primary" data-toggle="modal">Instrucciones</button>
